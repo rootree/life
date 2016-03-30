@@ -1,14 +1,14 @@
 *MANIFEST*
 
-*Dry August*
-Starting 03 August 2015 00:00:00 GMT
-Ending 07 September 2015 00:00:00 GMT
+*Dry August*  
+Starting 03 August 2015 00:00:00 GMT  
+Ending 07 September 2015 00:00:00 GMT  
 
 Any alcoholic drink consumption is prohibited for DIMITRIY REMEROV except:
 * in case of being outside of the Netherlands
 * floating day within the Netherlands: any single full day within the period from 00:00:00 GMT till 23:59:59 GMT—floating day has been used on 19 August 2015
 
-Alcoholic drink is any drink with alcohol content of more than 1% vol.
+Alcoholic drink is any drink with alcohol content of more than 1% vol.  
 Smoking tobacco is not prohibited, but strongly discouraged.
 
 Tips on what to do instead: go running, read a book, work on a startup, go snowboarding, have sex, smoke weed, go to gym, play Starcraft etc. Be creative.
